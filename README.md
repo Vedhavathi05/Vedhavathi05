@@ -63,9 +63,9 @@ Interning as a **Python Full-Stack Developer (AI)** at **Basal Analytics** — b
 <img src="https://img.shields.io/badge/GitHub_Stats-1A56A0?style=for-the-badge" alt="GitHub Stats">
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Vedhavathi05&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=graywhite" alt="GitHub stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Vedhavathi05&show_icons=true&hide_border=true&count_private=true&hide=contribs" alt="GitHub stats">
   &nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedhavathi05&layout=compact&hide_border=true&langs_count=8&theme=graywhite" alt="Top languages">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedhavathi05&layout=compact&hide_border=true&langs_count=8" alt="Top languages">
 </p>
 
 <br>
